@@ -6,7 +6,7 @@
 https://www.seoul-housingdata.com/
 
 ## 데이터 출처  
-MDSI
+MDIS
 
 https://mdis.kostat.go.kr/index.do
 
